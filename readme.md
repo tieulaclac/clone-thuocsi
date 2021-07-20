@@ -180,7 +180,7 @@ https://thuocsi.vn/user/wishlist )
 
 #### Main(Content) 
 - Các bài Post:  
-- Silebar : 
+- Silebar :
      o Form search  
      o Link các bài viết liên quan 
 - Footer: 
@@ -197,7 +197,7 @@ https://thuocsi.vn/user/wishlist )
 - Logo 
 - Icon search 
 - Menu: About us , Open Positions 
-- 
+
 #### Main:  
 - Banner công ti  
 - Giới thiệu qua về thuocsi: Các job: chia làm 2 cột, mobile 1 cột, Mỗi Job có thêm phần More Details, Click vào thì show chi tiết công việc + form submit CV, Chia sẻ các hoạt động của thuocsi 
@@ -254,7 +254,7 @@ Link (https://try.thuocsi.vn/banhangcungthuocsi)
 ### 5. Ngôn ngữ lập trình 
 - Ruby 
 - Node.js 
-- 
+
 ### 6. Web servers 
 - Nginx 
 - Next.js 
