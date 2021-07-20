@@ -99,61 +99,61 @@ Gồm thông tin tài khoản, đơn hàng, thống kê đơn hàng, mã giảm 
 
 https://thuocsi.vn/my-order ) 
 
-• Khi chưa có sản phẩm:  
+ - Khi chưa có sản phẩm:  
 
-o Quay về trang Đặt hàng nhanh - Đặt thuốc sỉ rẻ hơn tại thuocsi.vn (  
+     o Quay về trang Đặt hàng nhanh - Đặt thuốc sỉ rẻ hơn tại thuocsi.vn (  
 
 https://thuocsi.vn/quick-order ) 
 
-• Khi có sản phẩm: 
+ - Khi có sản phẩm: 
 
-o 
+     o 
 
 ### 3. Thống kê - Đặt thuốc sỉ rẻ hơn tại thuocsi.vn (  
 
 https://thuocsi.vn/user/dashboard ) 
 
-• Chức năng tìm kiếm trong khoảng thời gian tự chọn. 
+ - Chức năng tìm kiếm trong khoảng thời gian tự chọn. 
 
-• Form danh sách sản phẩm đã mua 
+ - Form danh sách sản phẩm đã mua 
 
-• Form danh sách nhà sản xuất bạn đã mua 
+ - Form danh sách nhà sản xuất bạn đã mua 
 
 ### 4. Giới thiệu bạn bè - Đặt thuốc sỉ rẻ hơn tại thuocsi.vn (  
 
 https://thuocsi.vn/users/referrals ) 
 
-• Nhập và gửi SMS giới thiệu. 
+ - Nhập và gửi SMS giới thiệu. 
 
-• Form những SMS đã giới thiệu được. 
+ - Form những SMS đã giới thiệu được. 
 
 ### 5. Mã giảm giá của tôi - Đặt thuốc sỉ rẻ hơn tại thuocsi.vn (  
 
 https://thuocsi.vn/users/user-promo-codes ) 
 
-• Form mã giảm giá của tôi 
+- Form mã giảm giá của tôi 
 
 ### 6. Danh sách phản hồi - Đặt thuốc sỉ rẻ hơn tại thuocsi.vn (  
 
 https://thuocsi.vn/users/my-ticket ) 
 
-• Chức năng Lọc và Xoá phản hồi trong khoảng thời gian tự chọn. 
+- Chức năng Lọc và Xoá phản hồi trong khoảng thời gian tự chọn. 
 
-• Form đơn hàng phản hồi 
+- Form đơn hàng phản hồi 
 
 ### 7. Điểm tích luỹ - Đặt thuốc sỉ rẻ hơn tại thuocsi.vn ( https://thuocsi.vn/users/loyalty_points ) 
 
-• Số điểm tích luỹ khi mua hàng 
+- Số điểm tích luỹ khi mua hàng 
 
 ### 8. Tra cứu thông tin vận chuyển của đơn hàng ( https://tracuu.thuocsi.vn ) 
 
-• Chức năng tìm kiếm mã đơn hàng.  
+- Chức năng tìm kiếm mã đơn hàng.  
 
 ### 9. Sản phẩm quan tâm - Đặt thuốc sỉ rẻ hơn tại thuocsi.vn (  
 
 https://thuocsi.vn/user/wishlist ) 
 
-• Form danh sách sản phẩm bạn quan tâm 
+- Form danh sách sản phẩm bạn quan tâm 
 
  
 
@@ -167,182 +167,101 @@ https://thuocsi.vn/user/wishlist )
 - Chia sẻ các tin tức, cách sử dụng, khuyến mãi 
 
 - Khởi nghiệp cùng thuốc sỉ : thông tin trong ngành, kiến thức kinh doanh, kiến thức chuyên môn  
-
-### Đi sâu vào phân tích :  
+ 
 #### Header : 
 - Logo 
 - Ô search 
 - Menu:
-<ul>
-  <li>Khám phá Thuocsi: </li>
-</ul>
+     o Khám phá Thuocsi: 
 - Khởi nghiệp cùng thuốc sỉ: 
-<ul>
-  <li>Thông tin trong ngành, kiến thức kinh doanh, kiến thức chuyên môn</li>
-</ul>
-  -  
+     o Thông tin trong ngành, kiến thức kinh doanh, kiến thức chuyên môn
+- Button Mua thuốc sỉ tại Thuocsi.vn : 
+     o Link tới trang: (https://thuocsi.vn/?utm_source=blog&utm_medium=top-button&utm_campaign=cta) 
 
-Button Mua thuốc sỉ tại Thuocsi.vn : 
-
-Link tới trang: (https://thuocsi.vn/?utm_source=blog&utm_medium=top-button&utm_campaign=cta) 
-
-Main(Content) 
-
-Các bài Post:  
-
-chia làm 2 cột pc, mobile: 1 cột 
-
-Ở bên dưới thì có các page-number.  
-
-Silebar : 
-
-Form search  
-
-Link các bài viết liên quan 
-
-Footer: 
-
-        Copyright 2021 © Thuocsi.vn 
-
-Hộp thoại fb 
+#### Main(Content) 
+- Các bài Post:  
+- Silebar : 
+     o Form search  
+     o Link các bài viết liên quan 
+- Footer: 
+     o Copyright 2021 © Thuocsi.vn
 
  
 
-Tuyển dụng|Recruitment: Link (https://career.thuocsi.vn/) 
+## Tuyển dụng|Recruitment: Link (https://career.thuocsi.vn/) 
+- Giới thiệu các founders, tầm nhìn, sử mệnh 
+- Giới thiệu các vị trí tuyển dụng của công ti, click vào thi ra mô tả chi tiết công việc và form gửi CV 
 
-Giới thiệu các founders, tầm nhìn, sử mệnh 
 
-Giới thiệu các vị trí tuyển dụng của công ti, click vào thi ra mô tả chi tiết công việc và form gửi CV 
+#### Header: 
+- Logo 
+- Icon search 
+- Menu: About us , Open Positions 
+- 
+#### Main:  
+- Banner công ti  
+- Giới thiệu qua về thuocsi: Các job: chia làm 2 cột, mobile 1 cột, Mỗi Job có thêm phần More Details, Click vào thì show chi tiết công việc + form submit CV, Chia sẻ các hoạt động của thuocsi 
+- Search 
+- Để lại email 
+#### Footer:
+- Thông tin liên hệ  
 
- 
 
- 
 
-Đi sâu vào phân tích :  
-
-Header: 
-
-Logo 
-
-Icon search 
-
-Menu: About us , Open Positions 
-
-Main:  
-
-Banner công ti  
-
-Chia các row: 
-
-Giới thiệu qua về thuocsi 
-
-Các job: chia làm 2 cột, mobile 1 cột 
-
-Mỗi Job có thêm phần More Details:  
-
-Click vào thì show chi tiết công việc + form submit CV 
-
-Chia sẻ các hoạt động của thuocsi 
-
-Message Form our Founder 
-
-Search 
-
-Để lại email 
-
-Footer: 
-
-Thông tin liên hệ  
-
- 
-
-Bán hàng cùng thuốc sỉ.  
-
+##  Bán hàng cùng thuốc sỉ.  
 Link (https://try.thuocsi.vn/banhangcungthuocsi)   
+- Đưa ra lí do để bắt đầu kinh doanh tại thuocsi 
+- Đưa ra quyền lợi khi đăng kí kinh doanh tại thuocsi 
 
-Đưa ra lí do để bắt đầu kinh doanh tại thuocsi 
+#### Header:  
+- Logo Thuocsi.vn 
+- Hotline 
+- Link fanpage Thuocsi 
 
-Đưa ra quyền lợi khi đăng kí kinh doanh tại thuocsi 
+#### Main  
+- Slider 
+- 5 lí do để bắt đầu kinh doanh tại Thuocsi: image 
+- Quyền lợi độc quyền: image nhưng kèm theo link dẫn tới trang chủ 
+- Các dịch vụ luôn sẵn sàng hỗ trợ nhà cung cấp: image 
+- Thuocsi vận hành như thế nào : slider 
+- Xen kẽ các mục đều kèm theo nút đăng kí  
+- Form đăng kí bán hàng 
 
- 
-
-Đi sâu vào phân tích: 
-
-Header:  
-
-Logo Thuocsi.vn 
-
-Hotline 
-
-Link fanpage Thuocsi 
-
-Main  
-
-Slider 
-
-5 lí do để bắt đầu kinh doanh tại Thuocsi: image 
-
-Quyền lợi độc quyền: image nhưng kèm theo link dẫn tới trang chủ 
-
-Các dịch vụ luôn sẵn sàng hỗ trợ nhà cung cấp: image 
-
-Thuocsi vận hành như thế nào : slider 
-
-Xen kẽ các mục đều kèm theo nút đăng kí  
-
-Form đăng kí bán hàng 
-
-Footer: 
-
-Thông tin liên hệ Thuocsi 
-
-Tải app Thuocsi 
-
-©2020 Bản quyền thuộc Công ty TNHH Buymed  - 2020 
+#### Footer: 
+- Thông tin liên hệ Thuocsi 
+- Tải app Thuocsi 
+- ©2020 Bản quyền thuộc Công ty TNHH Buymed  - 2020 
 
  
 
-Công nghệ sử dụng trong website: 
+## Công nghệ sử dụng trong website: 
 
-1. javascript graphics 
+### 1. javascript graphics 
+- Chart.js: là một thư viện JavaScript mã nguồn mở cho phép bạn vẽ các loại biểu đồ khác nhau bằng cách sử dụng phần tử canvas HTML5. 
 
-Chart.js: là một thư viện JavaScript mã nguồn mở cho phép bạn vẽ các loại biểu đồ khác nhau bằng cách sử dụng phần tử canvas HTML5. 
+### 2. javascript framework 
+- Stimulus 
+- styled-components 
 
-     	2. javascript framework 
+### 3. Web framework 
+- Ruby on Rails 
+- Next.js 
 
-Stimulus 
+### 4. javascript library 
+- Lodash 
+- React 
 
-styled-components 
+### 5. Ngôn ngữ lập trình 
+- Ruby 
+- Node.js 
+- 
+### 6. Web servers 
+- Nginx 
+- Next.js 
 
- 3. Web framework 
-
-Ruby on Rails 
-
-Next.js 
-
- 	 4. javascript library 
-
-Lodash 
-
-React 
-
- 5. Ngôn ngữ lập trình 
-
-Ruby 
-
-Node.js 
-
- 6. Web servers 
-
-Nginx 
-
-Next.js 
-
-  	 7. Font scripts 
-
-Google Font API 
-
-Font Awesome 
+### 7. Font scripts 
+- Google Font API 
+- Font Awesome 
 
  
 
