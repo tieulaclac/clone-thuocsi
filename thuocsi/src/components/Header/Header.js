@@ -49,10 +49,7 @@ export default function Header() {
         <div className="container">
           <div className="navbar_left">
             <ul className="navbar_ul">
-              <li className="navbar_li">
-                <i className="navbar_icon fas fa-tag"></i>
-                <p>Sản phẩm</p>
-              </li>
+              
               <li className="navbar_li">
                 <i className="navbar_icon fas fa-tag"></i>
                 <p>Sản phẩm</p>
